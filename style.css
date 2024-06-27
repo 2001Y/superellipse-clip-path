@@ -38,3 +38,7 @@ section {
   flex-wrap: wrap;
   gap: 2em;
 }
+
+section div {
+  width: 40%;
+}
