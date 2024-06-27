@@ -1,0 +1,19 @@
+#preview-container {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+#preview {
+  width: 80%;
+  height: 80%;
+  background-color: blue;
+}
+
+input[type="range"] {
+  width: 20em;
+}
