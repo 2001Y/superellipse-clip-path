@@ -5,7 +5,8 @@ body {
 }
 
 #preview-container {
-  width: 80vw;
+  max-width: 80vw;
+  max-height: 50vh;
   aspect-ratio: 1 / 1;
   padding: 5%;
   display: flex;
