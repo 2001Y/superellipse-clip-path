@@ -39,6 +39,6 @@ section {
   gap: 2em;
 }
 
-section div {
+section>div {
   width: 40%;
 }
