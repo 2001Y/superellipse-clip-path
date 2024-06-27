@@ -32,3 +32,9 @@ label {
 pre {
   overflow: auto;
 }
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+}
