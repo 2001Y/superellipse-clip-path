@@ -21,7 +21,7 @@ body {
 }
 
 input[type="range"] {
-  width: 20em;
+  width: 100%;
 }
 
 label {
