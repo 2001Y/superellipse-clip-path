@@ -24,6 +24,11 @@ input[type="range"] {
   width: 20em;
 }
 
+label {
+  display: block;
+  margin-top: 1.5em;
+}
+
 pre {
   overflow: auto;
 }
